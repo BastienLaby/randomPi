@@ -1,0 +1,10 @@
+*.pyc
+
+# venv
+
+Include/**
+Lib/**
+Scripts/**
+pyvenv.cfg
+.vscode/
+leetcodeSolutions.code-workspace

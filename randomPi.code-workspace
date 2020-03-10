@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "Scripts\\python.exe",
+		"python.formatting.blackArgs": [
+			"--line-length",
+			"100"
+		],
+	}
+}
